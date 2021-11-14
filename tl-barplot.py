@@ -111,7 +111,7 @@ ax = None
 yset = False
 max_legend = 0
 xaxis = None
-legend_bbox = (0., 0., -0.07, -0.03)
+legend_bbox = (0., -0.1, -0.07, -0.03)
 legend_loc = 2
 
 for l in tldata.level_order(data):
